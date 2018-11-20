@@ -23,7 +23,7 @@ print_r($issue);
 
 <?php
 echo $issue->title;
-echo "<br>tgvtbyu";
+echo "<br>razdwatrzy";
 ?>
 <br>
 <img src="<?php echo $issue->user->avatar_url;?>" usemap="#kawa" style="float:center" >
