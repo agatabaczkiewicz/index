@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>jeszcze inna strona</title>
+<title>słonik</title>
 </head>
-<>
+
 <body style="background-color:lightcoral;"></style>
 <pre>
 <?php
@@ -20,7 +20,7 @@ print_r($issue);
 
 <?php
 echo $issue->title;
-echo "<br>tgvtbyu";
+echo "<br>razdwatrzy";
 ?>
 <br>
 <img src="<?php echo $issue->user->avatar_url;?>" usemap="#kawa" style="float:center" >
