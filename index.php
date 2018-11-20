@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>strona</title>
+<title>inna strona</title>
 </head>
 <>
 <body style="background-color:lightcoral;"></style>
