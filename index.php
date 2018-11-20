@@ -1,5 +1,6 @@
 <html>
 <head>
+<title>strona</title>
 </head>
 <>
 <body style="background-color:lightcoral;"></style>
@@ -10,10 +11,6 @@ $client = new GuzzleHttp\Client();
 $res = $client->request('GET', 'https://api.github.com/repos/akai-org/trios/issues/5', [
 	'auth' =>['agatabaczkiewicz', 'gofergofer123']
 ]);
-//echo $res->getStatusCode();
-//echo $res->getHeader('content-type');
-//
-//echo;
 
 $issue=json_decode($res->getBody());
 
