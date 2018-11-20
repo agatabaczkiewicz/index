@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>strona</title>
+<title>słonik</title>
 </head>
 <>
 <body style="background-color:lightcoral;"></style>
