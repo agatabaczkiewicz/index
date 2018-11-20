@@ -1,6 +1,8 @@
 <html>
 <head>
+
 <title>słonik</title>
+
 </head>
 <>
 <body style="background-color:lightcoral;"></style>
